@@ -1,1 +1,1 @@
-Kayak - To roam the Kafka streams and get closer to objects.
+Kayak - To navigate the Kafka streams and see whats in topics.
